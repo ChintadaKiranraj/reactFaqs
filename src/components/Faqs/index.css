@@ -1,0 +1,7 @@
+/* Write your code here. */
+
+.list-itmes-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
